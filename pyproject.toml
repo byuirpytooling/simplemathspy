@@ -3,9 +3,9 @@ requires = ["uv_build >= 0.9.21, <0.10.0"]
 build-backend = "uv_build"
 
 [project]
-name = "pypackage_template"
+name = "simplemathspy"
 version = "0.0.1"
-description = "A small example package managed with uv"
+description = "Fun math in a simple python package"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

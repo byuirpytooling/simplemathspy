@@ -2,8 +2,8 @@
 
 ## Multiply
 
-::: pypackage_template.template_package.multiply
+::: simplemathspy.template_package.multiply
 
 ## Add
 
-::: pypackage_template.add_numbers.add
+::: simplemathspy.add_numbers.add
