@@ -1,11 +1,10 @@
 # API
 
-## Multiply
-
 ::: simplemathspy.template_package.multiply
-
-## Add
 
 ::: simplemathspy.add_numbers.add
 
-::: simplemathspy.duplicate_mitch.duplicate_mitch
+::: simplemathspy.terrible_multiply.bad_multiply
+
+::: simplemathspy.mitch.duplicate_mitch
+::: simplemathspy.add_fourteen.add_fourteen
